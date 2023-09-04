@@ -1,0 +1,20 @@
+.class-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    float: right;
+    margin-top: 0px;
+    margin-left: 20%;
+}
+.card{
+    color: rgb(5, 53, 244);
+}
+.primary{
+    background-color: #a495ed;
+    color: white;
+}
+.card-title{
+    color: rgb(44, 156, 44);
+    font-size: 20px;
+}

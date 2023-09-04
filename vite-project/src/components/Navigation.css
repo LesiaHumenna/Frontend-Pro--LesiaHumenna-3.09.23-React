@@ -1,0 +1,15 @@
+.class-nav{
+    float: left;
+    margin-top: 35px;
+    display: flex;
+    gap: 40px;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #a495ed;
+}
+.class-item{
+    color: white;
+    margin-bottom: 20px;
+    
+    
+}
